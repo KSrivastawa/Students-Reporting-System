@@ -4,6 +4,7 @@
 Tasks perform for this application:
 -----------------------------------
 - Add Students with Marks in Multiple Subjects for multiple Semester (Semesters are only 2 and subjects are3 namely English, Maths, Science)
+----------------------------------------------
 Reports:
 --------------------------------------------
 - Average Percentage of whole class in recent semester
